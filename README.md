@@ -1,13 +1,5 @@
-# clamm
+# Clamm
 
-A Clojure library designed to ... well, that part is up to you.
+A simple implementation of the Damm algorithm in clojure.
 
-## Usage
-
-FIXME
-
-## License
-
-Copyright © 2013 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+http://en.wikipedia.org/wiki/Damm_algorithm
