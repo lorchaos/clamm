@@ -12,7 +12,8 @@
             2 5 8 1 4 3 6 7 9 0])
 
 (defn- interim [x y]
-  (let [pos (+ y (* 10 x))]
+  (let [row (* 10 x)
+        pos (+ y row)]
     (nth table pos)))
 
 (defn generate
